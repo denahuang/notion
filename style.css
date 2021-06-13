@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+    background: #fff;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.table {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.table-cell {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.widget {
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+    background: #5498d3;
+    color: pink;
+    display: inline-block;
+    box-shadow: 2px 2px 1px 0px red;
+}
+
+.clock {
+    display: block;
+    font-family: 'Georgia', 'Times New Roman';
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.time {
+    display: inline-block;
+    min-width: 37px;
+}
+
+.colon {
+    font-size: 1.1em;
+    display: inline-block;
+}
+
+.date {
+    display: inline-block;
+    min-width: 162px;
+    font-family: 'Georgia', 'Times New Roman';
+    font-size: 2em;
+}
