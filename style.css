@@ -1,6 +1,5 @@
 body, html {
     background: #fff;
-    height: 100%;
 }
 
 h1 {
@@ -20,7 +19,7 @@ h1 {
 }
 
 .widget {
-    padding: 10px 50px 10px 50px;
+    padding: 10px 25px 10px 25px;
     border-radius: 10px;
     background: #5498d3;
     color: pink;
@@ -32,7 +31,7 @@ h1 {
     display: block;
     font-family: 'Georgia', 'Times New Roman';
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 .time {
@@ -41,7 +40,7 @@ h1 {
 }
 
 .colon {
-    font-size: 1.1em;
+    font-size: 1em;
     display: inline-block;
 }
 
@@ -49,5 +48,5 @@ h1 {
     display: inline-block;
     min-width: 162px;
     font-family: 'Georgia', 'Times New Roman';
-    font-size: 2em;
+    font-size: 1.2em;
 }
