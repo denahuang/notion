@@ -24,7 +24,7 @@ h1 {
     background: #A2B0C5;
     color: #fff;
     display: inline-block;
-    box-shadow: 2px 2px 1px 0px #0003;
+    box-shadow: 5px 5px 10px 3px #0003;
 }
 
 .clock {
