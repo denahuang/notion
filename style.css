@@ -21,10 +21,10 @@ h1 {
 .widget {
     padding: 10px 25px 10px 25px;
     border-radius: 10px;
-    background: #5498d3;
-    color: pink;
+    background: #A2B0C5;
+    color: #fff;
     display: inline-block;
-    box-shadow: 2px 2px 1px 0px red;
+    box-shadow: 2px 2px 1px 0px #0003;
 }
 
 .clock {
